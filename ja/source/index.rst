@@ -10,7 +10,10 @@ bpmercurial-workflow ドキュメント
    background
    repository
    create_repos
-   create_branches
+   commit_code
+   commit_design
+   confirm_branch
+   merge_branch
 
 Indices and tables
 ==================
