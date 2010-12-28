@@ -12,8 +12,8 @@ bpmercurial-workflow ドキュメント
    create_repos
    commit_code
    commit_design
-   confirm_branch
    merge_branch
+   confirm_branch
 
 Indices and tables
 ==================
