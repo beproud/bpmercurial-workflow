@@ -23,8 +23,8 @@
 
 ::
 
-  cd ~
-  hg clone /var/hg/example-prj 
+  $ cd ~
+  $ hg clone /var/hg/example-prj 
 
 個々人がリポジトリの扱い方を把握しているなら、作業リポジトリはこの形に縛る必要はありません。
 
@@ -35,7 +35,7 @@
 
 ::
 
-  sudo su - www
-  cd /var/hg/
-  hg clone example-prj example-prj-release
+  $ sudo su - www
+  $ cd /var/hg/
+  $ hg clone example-prj example-prj-release
 
