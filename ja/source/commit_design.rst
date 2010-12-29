@@ -24,6 +24,9 @@
   $ hg branch
   default
   $ hg branch design  # defaultからデザイン用のブランチを作る
+  $ hg commit  # コミットする
+
+.. image:: static/branch-design.png
 
 hgwebcommit
 -----------
