@@ -12,10 +12,11 @@
 fork して独自のドキュメントを作るのも良いでしょう。
 可能ならそれを公開してもらえると、とても嬉しいです。
 
-このドキュメントは `Sphinx` でビルドされています。ソースは bitbucket.org にて公開しています。
+このドキュメントは `Sphinx`_ でビルドされています。ソースは bitbucket.org にて公開しています。
 
 https://bitbucket.org/beproud/bpmercurial-workflow/
 
 .. _`BeProud`: http://www.beproud.jp/
 .. _`Mercurial`: http://mercurial.selenic.com/
 .. _`CC BY 2.1`: http://creativecommons.org/licenses/by/2.1/jp/
+.. _`Sphinx`: http://sphinx.pocoo.org/
