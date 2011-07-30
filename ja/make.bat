@@ -74,9 +74,9 @@ if "%1" == "qthelp" (
 	echo.
 	echo.Build finished; now you can run "qcollectiongenerator" with the ^
 .qhcp project file in %BUILDDIR%/qthelp, like this:
-	echo.^> qcollectiongenerator %BUILDDIR%\qthelp\bpmappers.qhcp
+	echo.^> qcollectiongenerator %BUILDDIR%\qthelp\bpmercurial-workflow.qhcp
 	echo.To view the help file:
-	echo.^> assistant -collectionFile %BUILDDIR%\qthelp\bpmappers.ghc
+	echo.^> assistant -collectionFile %BUILDDIR%\qthelp\bpmercurial-workflow.ghc
 	goto end
 )
 
